@@ -1,0 +1,104 @@
+[
+  {
+    "_id": "56b2551e04a49a91a94e4545",
+    "couponcode": "Coupon1",
+    "coupontitle": "anim excepteur velit ad dolore",
+    "description": "reprehenderit ipsum deserunt eiusmod sunt aliqua reprehenderit minim voluptate tempor",
+    "priority": 1,
+    "Startdate": "2016-01-05",
+    "enddate": "2015-12-11",
+    "excludedates": [
+      "2015-09-16",
+      "2015-11-13"
+    ],
+    "loccode": [
+      "NUNGBAKKAM",
+      "KODAMBAKKAM"
+    ]
+  },
+  {
+    "_id": "56b2551ec12028649428461e",
+    "couponcode": "Coupon2",
+    "coupontitle": "do consequat esse sunt fugiat",
+    "description": "fugiat adipisicing consequat nisi tempor pariatur non ea incididunt duis",
+    "priority": 2,
+    "Startdate": "2016-01-05",
+    "enddate": "2015-07-16",
+    "excludedates": [
+      "2015-02-07",
+      "2015-10-06"
+    ],
+    "loccode": [
+      "VELACHERY",
+      "BNAGAR"
+    ]
+  },
+  {
+    "_id": "56b2551e2459da69d5adfccc",
+    "couponcode": "Coupon3",
+    "coupontitle": "officia eu veniam officia nisi",
+    "description": "Lorem officia ea nisi esse qui irure nostrud dolore proident",
+    "priority": 3,
+    "Startdate": "2015-10-03",
+    "enddate": "2016-01-27",
+    "excludedates": [
+      "2016-01-19",
+      "2015-11-15"
+    ],
+    "loccode": [
+      "KODAMBAKKAM",
+      "BNAGAR"
+    ]
+  },
+  {
+    "_id": "56b2551e193e6eff9acdb63a",
+    "couponcode": "Coupon4",
+    "coupontitle": "quis dolore esse qui ad",
+    "description": "adipisicing eu duis nulla cupidatat dolor aliqua deserunt consectetur irure",
+    "priority": 4,
+    "Startdate": "2015-07-30",
+    "enddate": "2015-09-09",
+    "excludedates": [
+      "2015-05-06",
+      "2015-02-13"
+    ],
+    "loccode": [
+      "VELACHERY",
+      "VELACHERY"
+    ]
+  },
+  {
+    "_id": "56b2551ea9ddcb18293e103c",
+    "couponcode": "Coupon5",
+    "coupontitle": "duis veniam ea pariatur culpa",
+    "description": "fugiat mollit incididunt excepteur elit non proident eiusmod ad mollit",
+    "priority": 5,
+    "Startdate": "2015-04-16",
+    "enddate": "2015-02-18",
+    "excludedates": [
+      "2015-06-24",
+      "2015-05-07"
+    ],
+    "loccode": [
+      "TNAGAR",
+      "KODAMBAKKAM"
+    ]
+  },
+  {
+    "_id": "56b2551e463eb3627341ec86",
+    "couponcode": "Coupon6",
+    "coupontitle": "ad incididunt exercitation ex esse",
+    "description": "cupidatat nostrud commodo ex aliquip consequat sit aliqua consequat nisi",
+    "priority": 6,
+    "Startdate": "2015-07-07",
+    "enddate": "2015-06-28",
+    "excludedates": [
+      "2015-04-12",
+      "2015-06-24"
+    ],
+    "loccode": [
+      "TNAGAR",
+      "NUNGBAKKAM"
+    ]
+  }
+]

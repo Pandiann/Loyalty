@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "56b2643fd1751dc5866b05d8",
+    "item": "item1",
+    "description": "deserunt eiusmod commodo laboris consequat tempor esse aliqua dolor ut",
+    "price": 750,
+    "currency": "INR",
+    "loccode": [
+      "VELACHERY",
+      "NUNGBAKKAM",
+      "VELACHERY"
+    ]
+  },
+  {
+    "_id": "56b2643f8029e28322a054e7",
+    "item": "item2",
+    "description": "magna occaecat aute consequat nisi culpa enim culpa officia exercitation",
+    "price": 126,
+    "currency": "INR",
+    "loccode": [
+      "KODAMBAKKAM",
+      "BNAGAR",
+      "VELACHERY"
+    ]
+  },
+  {
+    "_id": "56b2643f20321663cf306645",
+    "item": "item3",
+    "description": "laboris commodo nulla fugiat fugiat sint ex officia ullamco duis",
+    "price": 698,
+    "currency": "INR",
+    "loccode": [
+      "NUNGBAKKAM",
+      "VELACHERY",
+      "KODAMBAKKAM"
+    ]
+  },
+  {
+    "_id": "56b2643f02546de34965b9a7",
+    "item": "item4",
+    "description": "eiusmod non ullamco quis est ea consectetur magna Lorem qui",
+    "price": 110,
+    "currency": "INR",
+    "loccode": [
+      "TNAGAR",
+      "NUNGBAKKAM",
+      "KODAMBAKKAM"
+    ]
+  },
+  {
+    "_id": "56b2643f9836538f825f5d78",
+    "item": "item5",
+    "description": "dolor in aliquip duis Lorem incididunt commodo ullamco nulla laborum",
+    "price": 110,
+    "currency": "INR",
+    "loccode": [
+      "VELACHERY",
+      "NUNGBAKKAM",
+      "VELACHERY"
+    ]
+  }
+]
